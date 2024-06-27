@@ -1,0 +1,48 @@
+.box{
+    width: 100%;
+    height: 600px;
+
+}
+
+.box2{
+    width: 1580px;
+    height: 580px;
+
+
+}
+
+.cont{
+    display: flex;
+    background-color: rgb(216,158,50);
+}
+
+.txt{
+    height: 50px;
+    width: 400px;
+    color: rgb(0,45,24);
+    font-size: 33px;
+    transform: translateY(210px);
+    margin-left: 120px;
+    font-weight: 500;
+
+}
+
+.txt1{
+    color: rgb(0,45,24);
+    font-size: 18px;
+    width: 430px;
+    transform: translateY(300px);
+    margin-left: 120px;
+}
+
+.but1{
+    background-color: rgba(242, 255, 0, 0.788);
+    color: rgb(0,45,24);
+    margin-left: 15px;
+    height: 50px;
+    width: 90px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 15px;
+}

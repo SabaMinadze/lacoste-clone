@@ -1,0 +1,17 @@
+.mainbox{
+    transform: translateX(70px);
+    color: rgb(0, 0, 0);
+    margin-right: 60px;
+}
+
+.box{
+    width: 360px;
+    height: 480px;
+    background-color: rgb(139,151,159);
+
+}
+
+.txt2{
+    cursor: pointer;
+}
+

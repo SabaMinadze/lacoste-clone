@@ -1,0 +1,10 @@
+.text{
+  color: aqua;
+}
+
+.txt1{
+  color: black;
+  transform: translateY(-40px);
+  
+  margin-left: 70px;
+}
